@@ -8,6 +8,6 @@ Je vais donc réaliser une série de 6 Mini Jeux pour mettre en pratique JavaScr
 - ✅ Devine le nombre
 - ✅ Bulls & Cows (MasterMind)
 - ✅ Pierre Papier Ciseaux
-- Morpion
+- ✅ Morpion
 - Sudoku
 - Echecs
